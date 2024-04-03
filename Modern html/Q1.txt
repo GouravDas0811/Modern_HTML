@@ -1,0 +1,21 @@
+Featues of html5
+1. Audio and Video Support:
+HTML5 introduced the <audio> and <video> tags, allowing developers to embed audio and video directly in web pages.
+These tags support various formats and provide a consistent way to include multimedia content without relying on external plugins like Flash.
+
+2.Audio and Video Support:
+HTML5 introduced the <audio> and <video> tags, allowing developers to embed audio and video directly in web pages.
+These tags support various formats and provide a consistent way to include multimedia content without relying on external plugins like Flash.
+
+3.Semantic Elements:
+HTML5 introduced semantic elements like <header>, <nav>, <article>, and <footer>.
+These elements provide better structure and meaning to web content, improving accessibility and SEO.
+
+4.Local Storage (Web Storage):
+HTML5 introduced the localStorage and sessionStorage APIs for client-side storage.
+Developers can store data persistently (even after page reloads) or session-specific data (cleared after session ends).
+
+5.Canvas Element:
+The <canvas> element allows dynamic rendering of graphics using JavaScript.
+Developers can draw shapes, images, and create animations directly within the browser.
+
